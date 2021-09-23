@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Garyye
+- 👀 I’m interested in playing basketball
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on developmenting test platform for manufacturing acoustic test
+- 📫 How to reach me, call 123456789
